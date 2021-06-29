@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\De6_DES\De6_DES\bin\Debug\De6_DES.exe.config
+C:\Users\hp\source\repos\De6_DES\De6_DES\bin\Debug\De6_DES.exe
+C:\Users\hp\source\repos\De6_DES\De6_DES\bin\Debug\De6_DES.pdb
+C:\Users\hp\source\repos\De6_DES\De6_DES\obj\Debug\De6_DES.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\De6_DES\De6_DES\obj\Debug\De6_DES.Form1.resources
+C:\Users\hp\source\repos\De6_DES\De6_DES\obj\Debug\De6_DES.Properties.Resources.resources
+C:\Users\hp\source\repos\De6_DES\De6_DES\obj\Debug\De6_DES.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\De6_DES\De6_DES\obj\Debug\De6_DES.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\De6_DES\De6_DES\obj\Debug\De6_DES.exe
+C:\Users\hp\source\repos\De6_DES\De6_DES\obj\Debug\De6_DES.pdb
